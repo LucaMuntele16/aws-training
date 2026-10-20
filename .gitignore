@@ -147,3 +147,11 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+*.pem
+*.key
+.env
+*.tfstate
+aws-credentials*
+params.json
+*.json
